@@ -13,7 +13,10 @@ Django.
 1. Edy Felix Tarqui Guarachi  
 2. Elmer Mamani Ticona
 Este README, cuenta con los pasos para levantar en ambientes de desarrollo la App de MiniKardex, desarrollado con Python v3.9 y Django v4.1.2
-
+### Pasos docker ###
+```commandline
+docker compose up -d 
+```
 ## APP DE MINIKARDEX ##
 ### Requisitos ###
 
